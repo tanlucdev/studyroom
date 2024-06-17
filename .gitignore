@@ -1,0 +1,131 @@
+# Hệ điều hành cụ thể
+.DS_Store
+Thumbs.db
+
+# Các thư mục và file cấu hình hệ thống
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Tệp binary và thư mục build
+*.o
+*.obj
+*.dll
+*.exe
+*.so
+*.dylib
+*.class
+*.pyc
+*.pyo
+*.pyd
+build/
+bin/
+target/
+dist/
+out/
+
+# Các thư viện phụ thuộc và môi trường ảo
+node_modules/
+bower_components/
+*.jar
+*.war
+*.ear
+vendor/
+env/
+.venv/
+
+# Tệp nhật ký và tệp tạm thời
+*.log
+*.temp
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+
+# Tệp dữ liệu
+*.csv
+*.tsv
+*.dat
+*.db
+*.sqlite
+
+# Tệp cài đặt và cấu hình IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Tệp liên quan đến hệ thống quản lý phiên bản khác
+*.bak
+*.orig
+
+# Các file cụ thể cho một số ngôn ngữ lập trình
+__pycache__/
+*.py[cod]
+*.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.rda
+*.rds
+*.RData
+
+# Tệp cài đặt và cache của Python
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+*.mo
+*.pot
+
+# Tệp cài đặt và cache của JavaScript/Node
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Tệp cài đặt và cache của Java
+*.class
+*.war
+*.ear
+*.jar
+*.rar
+*.jardesc
+*.class
+*.fasl
+*.lib
+*.out
+
+# Tệp cài đặt và cache của Ruby
+*.gem
+*.rbc
+*.erb~
+.mvimrc
+.pryrc
+.jruby_
+.jrubyvars
+
+# Tệp cài đặt và cache của PHP
+composer.phar
+composer.lock
+vendor/
+
+# Thư mục và tệp cài đặt của Go
+Godeps/
+*.lock
+.envrc
+go.sum
+
+# Thư mục và tệp cài đặt của Rust
+Cargo.lock
